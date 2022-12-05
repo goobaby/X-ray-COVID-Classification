@@ -1,0 +1,13 @@
+tensorflow 
+notebook
+scikit-learn
+scikit-image
+matplotlib
+pandas
+seaborn
+mdai
+numpy
+opencv-python
+tensorflow_datasets
+keras
+keras-unet

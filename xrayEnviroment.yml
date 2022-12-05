@@ -1,0 +1,34 @@
+name: xray
+channels:
+- pytorch
+- menpo
+- conda-forge
+- defaults
+- sepandhaghighi
+- tensorflow 
+dependencies:
+- jupyter
+- matplotlib
+- python=3.9
+- scikit-image
+- scikit-learn
+- scipy
+- opencv
+- pytorch
+- torchvision
+- pycm
+- pip
+
+- tensorflow 
+- notebook
+- scikit-learn
+- scikit-image
+- matplotlib
+- pandas
+- seaborn
+
+
+- pip:
+  - visdom
+  - mdai
+- pyyaml
